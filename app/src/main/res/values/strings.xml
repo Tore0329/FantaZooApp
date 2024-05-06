@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fantazoo</string>
+    <string name="cages">Cages</string>
+    <string name="animals">Animals</string>
+    <string name="zookeepers">Zookeepers</string>
+    <string name="search">Search</string>
+</resources>
